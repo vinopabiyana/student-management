@@ -8,6 +8,7 @@ public class StudentDto {
     String stdId;
     String name;
     int age;
+    String gender;
     String email;
 }
 
